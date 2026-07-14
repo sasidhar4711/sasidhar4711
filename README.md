@@ -6,7 +6,8 @@ Currently building:
 🔧 [TechCore v2](https://github.com/sasidhar4711/TechCore-v2) — an extended infrastructure lab covering Linux server management, networking, security hardening, automation, and cloud integration using Ubuntu Server, AWS, WireGuard, Ansible, and related tools.
 
 Completed:
-📊 [TechCore Infrastructure Monitor](https://github.com/sasidhar4711/TechCore-Infrastructure-Monitor) — a self-hosted Linux server monitoring dashboard built with Bash scripting, Nginx, and cron automation to track system health and services.
+📊 [TechCore Infrastructure Monitor](https://github.com/sasidhar4711/TechCore-Infrastructure-Monitor)
+A self-hosted Linux server monitoring dashboard built with Bash scripting, Nginx, and cron automation to track system health and services.
 
 Core stack:
 🐧 Linux (Ubuntu Server) · Bash · Networking · Nginx · Git · AWS · Ansible
