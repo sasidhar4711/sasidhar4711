@@ -7,7 +7,7 @@ Currently building:
 
 Completed:
 📊 [TechCore Infrastructure Monitor](https://github.com/sasidhar4711/TechCore-Infrastructure-Monitor)
---a self-hosted Linux server monitoring dashboard built with Bash scripting, Nginx, and cron automation to track system health and services.
+—a self-hosted Linux server monitoring dashboard built with Bash scripting, Nginx, and cron automation to track system health and services.
 
 Core stack:
 🐧 Linux (Ubuntu Server) · Bash · Networking · Nginx · Git · AWS · Ansible
