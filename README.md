@@ -10,10 +10,10 @@ Completed:
 -a self-hosted Linux server monitoring dashboard built with Bash scripting, Nginx, and cron automation to track system health and services.
 
 Core stack:
-Linux (Ubuntu Server) · Bash · Networking · Nginx · Git · AWS · Ansible
+Linux (Ubuntu Server), Bash, Networking, Nginx, Git, AWS, Ansible
 
 I enjoy understanding how systems work under the hood from Linux services and networking to server infrastructure and automation. My goal is to build reliable, secure, and scalable systems.
 
 Open to entry-level opportunities in:
-Linux Engineering · Infrastructure Engineering · Cloud Support · DevOps Trainee · SRE Trainee · NOC/Infrastructure Operations.
+Linux Engineering, Infrastructure Engineering, Cloud Support, DevOps Trainee, SRE Trainee, NOC/Infrastructure Operations.
 
