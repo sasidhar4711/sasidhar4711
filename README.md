@@ -14,6 +14,6 @@ Linux (Ubuntu Server) · Bash · Networking · Nginx · Git · AWS · Ansible
 
 I enjoy understanding how systems work under the hood from Linux services and networking to server infrastructure and automation. My goal is to build reliable, secure, and scalable systems.
 
-📫 Open to entry-level opportunities in:
+Open to entry-level opportunities in:
 Linux Engineering · Infrastructure Engineering · Cloud Support · DevOps Trainee · SRE Trainee · NOC/Infrastructure Operations.
 
